@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header & navigation style */
+nav{
+    text-align: right;
+    position: absolute;
+    margin-top: 320px;
+    padding: 0 150px;
+}
+.header{
+    background-image: url(../images/banner/banner3.png);>
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+}
+.nav-title{
+    color: white;
+    font-size: 40px;
+}
+.nav-description{
+    color: white;
+    margin-top: 20px;
+    
+}
+.button-primary{
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;}
+.banner{
+    display: flex;}
+.banner-one{
+    margin: 100px 100px;
+    margin-right: 40px;
+}
+.banner-two{
+    margin: 400px 300px;
+    display: inline;
+}
+.banner-title{
+    font-size: 40px;
+}
+.one{
+    text-align: center;
+}
+.two{
+    display: flex;
+    position: absolute;
+width: 1141px;
+height: 202.96px;
+left: 230px;
+top: 1889px;
+margin: 100px 250px;
+}
+.two-one{
+margin-right: 50px;
+}
+.two-two{
+    margin-right: 50px;
+}
+.two-three{
+    margin-right: 50px;
+}
+.call{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    margin: 400px 300px;
+    width: 1140px;
+    height: 300px;
+}
+.call-button{
+    width: 160px;
+height: 64px;
+}
+input{
+    width: 325px;
+height: 64px;
+}
+.footer{
+    display: flex;
+background-color: black;
+background-size: cover;
+}
+.footer-head-one{
+    color: white;
+}
+.footer-head-two{
+    color: white;
+}
+.footer-description{
+    color: white;
+}
+.email{
+    color: white;
+}
+.extra{
+    background-image: url(../images/gradient3.png);
+    background-repeat: no-repeat;
+}
+.main{
+    margin-left: 50px;
+}
+.number{
+    color: white;
+}
+.last{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 170.11px;
+height: 64px;
+}
